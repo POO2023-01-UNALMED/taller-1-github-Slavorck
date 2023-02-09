@@ -1,3 +1,0 @@
-espero pasar la materia con 5
-edad = 20
-luis varela
