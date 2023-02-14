@@ -1,3 +1,0 @@
-luis varela
-edad: 20
-espero sacar 5
