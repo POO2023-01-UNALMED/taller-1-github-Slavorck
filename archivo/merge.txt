@@ -1,3 +1,6 @@
 mi nombre es: LUIS VARELA 
 tengo 20 años
 espero sacar 5 en la materia
+estoy creando un archivo directamente desde github, no se recomienda hacer esto
+
+hay que tener cuidado porque se pueden generar conflictos en las diferentes versiones del trabajo.
